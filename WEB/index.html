@@ -1,1 +1,33 @@
+<!DOCTYPE html>
+    <html lang="tr">
+        <head>
+            <link rel="stylesheet" href="main.css">
+            <link rel="shortcut icon" href="#">
+            <meta charset="UTF-8">
+            <title>Kuş Dili Çeviricisi</title>
+        </head>
+        <body>
+            <textarea id="Cevrilen" title="Çevrilecek metin" aria-multiline="true" spellcheck="false" placeholder="Buraya çevrilecek metninizi yazınız..."></textarea>
+            <br>
+            <button id="Cevir" title="Metninizi çevirin">Çevir</button>
+            <select id="CevirMod" title="Çeviri seçimi">
+                <option value="Turkce">Türkçe'den Kuş Dili'ne</option>
+                <option value="KusDil">Kuş Dili'nden Türkçe'ye</option>
+            </select>
+            <select id="CevirHarf" title=" Çeviride kullanılacak harf (Hırsız dili için ' lf ' harfini seçin) ">
+                <option value="g">' g ' Harfi Kullanılarak</option>
+                <option value="b">' b ' Harfi Kullanılarak</option>
+                <option value="c">' c ' Harfi Kullanılarak</option>
+                <option value="f">' f ' Harfi Kullanılarak</option>
+                <option value="lf" title="Hırsız dili">' lf ' (Hırsız Dili)</option>
+            </select> <br>
+            <textarea id="Ceviri" aria-multiline="true" readonly title="Çeviri sonucu" placeholder="&quot;Çevir&quot; butonuna bastıktan sonra metniniz burada gözükecektir."></textarea>
+            <br>
+            <button id="Kopyala" disabled title="Çevirinizi kopyalayın">Çeviriyi Kopyala</button>
 
+            <footer>
+                <a target="_blank" href="https://github.com/lim10dev">lim10dev</a> tarafından Kuş Dili Çeviricisi.<br><a target="blank" href="https://github.com/lim10dev/kusdili/tree/main/WEB">Kaynak Kodu</a>
+            </footer>
+            <script src="main.js"></script>
+        </body>
+    </html>

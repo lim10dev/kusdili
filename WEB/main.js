@@ -6,7 +6,6 @@ var cevirMod = document.getElementById("CevirMod");
 var cevirHarf = document.getElementById("CevirHarf");
 var cvrButon = document.getElementById("Cevir");
 var kopyala = document.getElementById("Kopyala");
-var kaydet = document.getElementById("Kaydet");
 var ters = document.getElementById("Ters");
 var kaydet_hatirla = document.getElementById("Kaydet-Hatirla");
 }
@@ -14,15 +13,15 @@ var kaydet_hatirla = document.getElementById("Kaydet-Hatirla");
 addEventListener("load", function(){
     
     console.log("Ayarlar kontrol ediliyor...")
-    if(localStorage.getItem("ayarlar") != null && localStorage.getItem("hatirla") == "true"){
+    if(localStorage.getItem("ayarlar") != null && localStorage.getItem("ayarlar").split(";")[0] == "true"){
 
         console.log("Ayarlar tespit edildi. Ayarlar yükleniyor...");
-        cevirMod.value = localStorage.getItem("ayarlar").split(";")[0];
-        cevirHarf.value = localStorage.getItem("ayarlar").split(";")[1]
+        cevirMod.value = localStorage.getItem("ayarlar").split(";")[1];
+        cevirHarf.value = localStorage.getItem("ayarlar").split(";")[2]
 
     }
 
-    kaydet_hatirla.checked = (localStorage.getItem("hatirla").toLowerCase() == "true");
+    kaydet_hatirla.checked = (localStorage.getItem("ayarlar").split(";")[0] == "true");
 })
 
 cvrButon.addEventListener("click", function(){
@@ -96,13 +95,6 @@ document.onkeyup = function(ev){
 
 }
 
-kaydet.addEventListener("click", function(){
-
-    console.log("Tercihler kaydediliyor...");
-    localStorage.setItem("ayarlar", `${cevirMod.value};${cevirHarf.value}`);
-
-});
-
 ters.addEventListener("click", function(){
 
     var cevrilenYeni = ceviri.value;
@@ -115,8 +107,15 @@ ters.addEventListener("click", function(){
 
 })
 
-kaydet_hatirla.addEventListener("change", function(){
+function Kaydet(){
 
-    localStorage.setItem("hatirla", kaydet_hatirla.checked);  
+    console.log("Tercihler kaydediliyor...");
+    localStorage.setItem("ayarlar", `${kaydet_hatirla.checked};${cevirMod.value};${cevirHarf.value}`);  
 
-})
+}
+
+kaydet_hatirla.addEventListener("change", Kaydet);
+
+cevirMod.addEventListener("change", Kaydet);
+
+cevirHarf.addEventListener("change");

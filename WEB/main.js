@@ -118,4 +118,4 @@ kaydet_hatirla.addEventListener("change", Kaydet);
 
 cevirMod.addEventListener("change", Kaydet);
 
-cevirHarf.addEventListener("change");
+cevirHarf.addEventListener("change", Kaydet);

@@ -1,0 +1,15 @@
+C:\Users\ahmet\source\repos\KusDiliCeviri\KusDiliCeviri\bin\Release\KusDiliCeviri.exe.config
+C:\Users\ahmet\source\repos\KusDiliCeviri\KusDiliCeviri\bin\Release\KusDiliCeviri.exe
+C:\Users\ahmet\source\repos\KusDiliCeviri\KusDiliCeviri\bin\Release\KusDiliCeviri.pdb
+C:\Users\ahmet\source\repos\KusDiliCeviri\KusDiliCeviri\bin\Release\tr-TR\KusDiliCeviri.resources.dll
+C:\Users\ahmet\source\repos\KusDiliCeviri\KusDiliCeviri\obj\Release\KusDiliCeviri.csprojAssemblyReference.cache
+C:\Users\ahmet\source\repos\KusDiliCeviri\KusDiliCeviri\obj\Release\KusDiliCeviri.ayarlar.resources
+C:\Users\ahmet\source\repos\KusDiliCeviri\KusDiliCeviri\obj\Release\KusDiliCeviri.HizliCeviri.resources
+C:\Users\ahmet\source\repos\KusDiliCeviri\KusDiliCeviri\obj\Release\KusDiliCeviri.KusDilCeviri.resources
+C:\Users\ahmet\source\repos\KusDiliCeviri\KusDiliCeviri\obj\Release\KusDiliCeviri.Properties.Resources.resources
+C:\Users\ahmet\source\repos\KusDiliCeviri\KusDiliCeviri\obj\Release\KusDiliCeviri.HizliCeviri.tr-TR.resources
+C:\Users\ahmet\source\repos\KusDiliCeviri\KusDiliCeviri\obj\Release\KusDiliCeviri.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\KusDiliCeviri\KusDiliCeviri\obj\Release\KusDiliCeviri.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\KusDiliCeviri\KusDiliCeviri\obj\Release\tr-TR\KusDiliCeviri.resources.dll
+C:\Users\ahmet\source\repos\KusDiliCeviri\KusDiliCeviri\obj\Release\KusDiliCeviri.exe
+C:\Users\ahmet\source\repos\KusDiliCeviri\KusDiliCeviri\obj\Release\KusDiliCeviri.pdb

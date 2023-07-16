@@ -1,0 +1,17 @@
+C:\GitProjeleri\kusdili\kusdili-winforms\kusdili-winforms\obj\Debug\net6.0-windows\kusdili-winforms.csproj.AssemblyReference.cache
+C:\GitProjeleri\kusdili\kusdili-winforms\kusdili-winforms\obj\Debug\net6.0-windows\kusdili_winforms.AnaForm.resources
+C:\GitProjeleri\kusdili\kusdili-winforms\kusdili-winforms\obj\Debug\net6.0-windows\kusdili-winforms.csproj.GenerateResource.cache
+C:\GitProjeleri\kusdili\kusdili-winforms\kusdili-winforms\obj\Debug\net6.0-windows\kusdili-winforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitProjeleri\kusdili\kusdili-winforms\kusdili-winforms\obj\Debug\net6.0-windows\kusdili-winforms.AssemblyInfoInputs.cache
+C:\GitProjeleri\kusdili\kusdili-winforms\kusdili-winforms\obj\Debug\net6.0-windows\kusdili-winforms.AssemblyInfo.cs
+C:\GitProjeleri\kusdili\kusdili-winforms\kusdili-winforms\obj\Debug\net6.0-windows\kusdili-winforms.csproj.CoreCompileInputs.cache
+C:\GitProjeleri\kusdili\kusdili-winforms\kusdili-winforms\bin\Debug\net6.0-windows\kusdili-winforms.exe
+C:\GitProjeleri\kusdili\kusdili-winforms\kusdili-winforms\bin\Debug\net6.0-windows\kusdili-winforms.deps.json
+C:\GitProjeleri\kusdili\kusdili-winforms\kusdili-winforms\bin\Debug\net6.0-windows\kusdili-winforms.runtimeconfig.json
+C:\GitProjeleri\kusdili\kusdili-winforms\kusdili-winforms\bin\Debug\net6.0-windows\kusdili-winforms.dll
+C:\GitProjeleri\kusdili\kusdili-winforms\kusdili-winforms\bin\Debug\net6.0-windows\kusdili-winforms.pdb
+C:\GitProjeleri\kusdili\kusdili-winforms\kusdili-winforms\obj\Debug\net6.0-windows\kusdili-winforms.dll
+C:\GitProjeleri\kusdili\kusdili-winforms\kusdili-winforms\obj\Debug\net6.0-windows\refint\kusdili-winforms.dll
+C:\GitProjeleri\kusdili\kusdili-winforms\kusdili-winforms\obj\Debug\net6.0-windows\kusdili-winforms.pdb
+C:\GitProjeleri\kusdili\kusdili-winforms\kusdili-winforms\obj\Debug\net6.0-windows\kusdili-winforms.genruntimeconfig.cache
+C:\GitProjeleri\kusdili\kusdili-winforms\kusdili-winforms\obj\Debug\net6.0-windows\ref\kusdili-winforms.dll
